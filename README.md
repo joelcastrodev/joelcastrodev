@@ -29,7 +29,7 @@ se corrigen con un commit.
 | [auth_api_sena](https://github.com/joelcastrodev/auth_api_sena) | API de autenticación de usuarios con PDO y rutas protegidas | PHP, MySQL |
 | [documentos-a-markdown](https://github.com/joelcastrodev/documentos-a-markdown) | Convierte carpetas de Word, PowerPoint y Excel a Markdown con estructura validada para un RAG | Python |
 
-**En construcción:** conversión de documentos a Markdown, bot de automatización en Telegram
+**En construcción:** bot de automatización en Telegram
 y un laboratorio de agentes documentado.
 
 > Todo lo que publico es de mi autoría o de proyectos formativos. No incluyo datos, código
