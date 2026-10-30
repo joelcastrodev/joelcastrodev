@@ -28,6 +28,8 @@ se corrigen con un commit.
 | [unideportes-system](https://github.com/joelcastrodev/unideportes-system) | Sistema de gestión para tienda deportiva: inventario, pedidos y panel administrativo. Proyecto formativo en equipo | PHP, MySQL, React, Cypress |
 | [auth_api_sena](https://github.com/joelcastrodev/auth_api_sena) | API de autenticación de usuarios con PDO y rutas protegidas | PHP, MySQL |
 
+| [documentos-a-markdown](https://github.com/joelcastrodev/documentos-a-markdown) | Convierte carpetas de Word, PowerPoint y Excel a Markdown con estructura validada para un RAG | Python |
+
 **En construcción:** conversión de documentos a Markdown, bot de automatización en Telegram
 y un laboratorio de agentes documentado.
 
